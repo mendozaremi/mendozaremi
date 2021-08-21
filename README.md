@@ -17,6 +17,7 @@ I love "Design to Code" because it teaches you design fundamentals and can the j
 
 I used to be wedding Photography before coding and still practice photography on occasions. 
 
+Portfolio - https://mendozaremi.github.io/React_MinimilistPort/
 Twitter - https://twitter.com/Bxnkstudio
 
 - 🔭 I’m currently working on MERN fullstack application
