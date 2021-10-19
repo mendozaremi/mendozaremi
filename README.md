@@ -3,7 +3,7 @@
 ## About me 😁
 
 My name is Remi Mendoza. I am a Fullstack Developer and 2020 Fullstack Academy graduate. I love Photography, Coding, and Painting.
-I am currently practicing the MERN stack and learning many other technologies along the way.
+I am currently looking to land that first software engineering role.
 
 
 ## What I'm currently learning 📓
